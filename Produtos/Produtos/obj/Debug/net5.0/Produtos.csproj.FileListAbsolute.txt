@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.exe
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.deps.json
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.json
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.dll
+C:\Users\Leandro\source\repos\Produtos\Produtos\bin\Debug\net5.0\Produtos.pdb
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.dll
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\refint\Produtos.dll
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.pdb
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\Produtos.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\Produtos\Produtos\obj\Debug\net5.0\ref\Produtos.dll

@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.exe
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.deps.json
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.runtimeconfig.json
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.dll
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\bin\Debug\net5.0\FuncionariosNelio.pdb
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.dll
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\refint\FuncionariosNelio.dll
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.pdb
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\FuncionariosNelio.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\FuncionariosNelio\FuncionariosNelio\obj\Debug\net5.0\ref\FuncionariosNelio.dll
