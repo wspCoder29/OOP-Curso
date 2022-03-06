@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.exe
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.deps.json
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.runtimeconfig.json
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.dll
+C:\Users\Leandro\source\repos\Tax\Tax\bin\Debug\net5.0\Tax.pdb
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.dll
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\refint\Tax.dll
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.pdb
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\Tax.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\Tax\Tax\obj\Debug\net5.0\ref\Tax.dll
